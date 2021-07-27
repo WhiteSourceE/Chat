@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class-Path: javax.websocket-api-1.0.jar jstl-1.2.jar Chat.jar
